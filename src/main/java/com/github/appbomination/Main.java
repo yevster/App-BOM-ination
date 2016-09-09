@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 /**
  * This file is licensed under the Apache 2.0 License (except where otherwise indicated).
  * 
- * Copyright (C) 2016 Faust Inc. All, and I mean ALL rights are reserved.
  * @author yevster
  *
  */
@@ -21,6 +20,7 @@ public class Main {
 	 * https://git1-us-west.apache.org/repos/asf?p=commons-math.git;a=blob_plain;f=src/main/java/org/apache/commons/math3/util/FastMath.java;hb=16abfe5de688cc52fb0396e0609cb33044b15653
 	 * 
 	 * Lines 142-363
+	 * Maven/POM ID: group: 'org.apache.commons', name: 'commons-math3', version: '3.6.1'
 	 */
 	 private static final double SINE_TABLE_A[] =
 	        {
