@@ -1,5 +1,6 @@
 /*
  * The AppBOMination build file.
+ * SPDX­License­Identifier: LGPL-2.0+ OR WTFPL
  */
 
 apply plugin: 'java'
