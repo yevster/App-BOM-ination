@@ -25,6 +25,8 @@ dependencies {
 	compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.11'
         // Shouldn't we also be vulnerable to CVE-2014-3612? I think we should.
 	compile group: 'org.apache.activemq', name: 'activemq-broker', version: '5.8.0'
+	// A vulnerability AND LGPL? Yes please!
+	compile group: 'org.hibernate', name: 'hibernate-validator', version: '5.2.0.Final'
 
 	testCompile 'junit:junit:4.12'
 }
